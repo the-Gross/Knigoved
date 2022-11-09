@@ -1,0 +1,30 @@
+P1_L_Move|Move
+P1_L_Cancel|Cancel
+P1_L_Cancel2|Cancel
+P1_L_Add|Add
+P1_L_Open|Open
+P1_L_Delit|Delit
+P1_L_Edit|Edit
+P1_L_Repeat|Repeat
+P1_L_Ok|Ok
+P1_L_Cancel3|Do you really want to delete
+P1_L_Back|<< Back
+P1_L_Books|books
+P1_L_Publishing|publishing
+P1_L_Zag_book|Knigoved [Books]
+P1_L_Zag_Publish|Knigoved [Publishing]
+P1_L_autor_link|Author page:
+P1_L_Donat_link|Donat:
+P1_L_Zag_info|Knigoved v1.1 ©S. Gross
+P1_L_Del_zap|Are you sure you want to delete the record?
+P1_L_Lang|Language
+P1_L_All_book| >> All books
+P1_L_Search_line|Search line
+P1_L_Site|Site:
+P1_L_Tel|Phone:
+P1_L_date|Date:
+P1_L_as|AS:
+P1_L_Tb_book|#=30,id=0,Title=170,AS=40,Date=70,Comment=257
+P1_L_Tb_Publish|#=30,id=0,Publishing=120,Site=150,Comment=264
+P1_L_Tb_menu|Add,-,Open,Move,Color,White,Yellow,Red,Blue,Green,),Delete
+P1_L_Tb_menu2|Add,-,Open,Move,Color,White,Yellow,Red,Blue,Green,Open site,),Delete
